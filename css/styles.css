@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(../Img/3d_abstract_light_blue_hexagon_vector_illustration_of_luxury_background09_generated.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bateria-controls button{
+    background-color: #01213A;
+    color: white;
+    border-color: black;
+    border-width: 0.3em;
+    width: 5.5em;
+    height: 6em;
+    border-radius: 20%;
+    font-family: 'Russo One', sans-serif;;
+
+}
